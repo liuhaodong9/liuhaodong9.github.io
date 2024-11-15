@@ -8,21 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student in Southeast University School of Engergy and Environment. And I和联合培养Chemical Engineering from Monash University. My main supervisor is Prof. [Jianglong Yu](https://research.monash.edu/en/persons/jianglong-yu). Meanwhile, my associated supervisor is Prof. [Zhuguang Can](https://https://power.seu.edu.cn/zgc/list.htm) and Prof. [Sankar Bhattacharya](https://research.monash.edu/en/persons/sankar-bhattacharya).
+I am currently a PhD student at the School of Energy and Environment, Southeast University, and I am jointly supervised by the Chemical Engineering Department at Monash University. My main supervisor is Prof. [Jianglong Yu](https://research.monash.edu/en/persons/jianglong-yu). Meanwhile, my associated supervisor is Prof. [Zhuguang Can](https://https://power.seu.edu.cn/zgc/list.htm) and Prof. [Sankar Bhattacharya](https://research.monash.edu/en/persons/sankar-bhattacharya).
 
-At July 2024, I got a Master degree in material and chemical engineering from North China University of Science and Technology. When I was an undergraduate, my research work focused on Java的web开发. [You can click here to view my resume.](https://liuhaodong9.github.io//cv/)  My research field include 煤的热解和焦化的分子结构演化、研究用到了数字孪生、web全栈开发、深度学习、动力学模拟、量子化学计算, and
+In July 2024, I completed my Master's degree in Material and Chemical Engineering from North China University of Science and Technology. During my Master's, I conducted research on the construction of coal molecular structures under the supervision of Prof. [Guangyue Li](https://hg.ncst.edu.cn/col/1684291858330/2022/10/03/1664764516444.html) and Dr. Hang Zhang. I developed the [GenCoal tool](https://gencoal.readthedocs.io/en/latest/), an open-source Python software package designed to generate feasible lignin structures. The code belongs to the [Guangyue Li Group](https://github.com/GYLiGroup).
 
-During my undergraduate period, I received the guidance of Prof. [Zhijian Lin](https://xjzz.fzu.edu.cn/info/1013/1916.htm) and Prof. [Pingping Chen](https://xjzz.fzu.edu.cn/info/1012/1070.htm) and did some research on machine learning, communication signal processing and AI edge computing.
+My current research interests focus on the molecular structure evolution of coal pyrolysis and coking, with applications involving digital twins, Three.js, deep learning, molecular dynamics (MD) simulations, and density functional theory (DFT) calculations.
 
-At the same time, I also got a lot of help from my class adviser, Dr. [Gang Mou](https://xjzz.fzu.edu.cn/info/1018/1061.htm). We have cooperated in the research of image processing.
+I am collaborating with Shirong Guo on designing the [smart-coking system software](http://longtechhydrogen.com/) for Prof. Jianglong Yu's team, which is under development for commercialization, with an expected release in June 2025.
 
-I was an intern in Quanzhou Institute of Equipment, Chinese Academy of Sciences. There, I accept the guidance of Dr. [Jun Li](https://people.ucas.edu.cn/~121) and Mr. [Yin Gao](http://www.casqiem.ac.cn/doclist.action?chnlid=3167) to learn about image processing and robot control.
-
-
-Want to design something interesting with me? 
-======
-I like to build embedded systems and customize some interesting things. I can use Python, C, C++, MATLAB, Verilog to program. I am good at using MDK v5, Arduino, STM32CubeMX, Altium Designer, etc. to design embedded systems.
-
-Since junior high school, I have been very interested in custom design, and I hope I can customize a game console. In university, I was lucky to have the opportunity to learn electronic information engineering, which enabled me to learn a lot about embedded systems and enable me to "customize" many interesting things. If you are interested in my design, you can take a look at some relevant videos I published in [bilibili](https://space.bilibili.com/25541376?spm_id_from=333.999.0.0/).
+Additionally, I am passionate about developing practical algorithms to support scientific plotting and work. Some of my previous projects include drawing [chessboard plot](colab) and [rebursement App] (colab).
 
 I look forward to any interesting cooperation!
