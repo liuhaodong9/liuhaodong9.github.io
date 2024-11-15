@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bamboo's Home"
+title                    : "HaodongLiu's Home"
 title_separator          : "-"
-name                     : &name "Shirong Guo"
+name                     : &name "Haodong Liu"
 description              : &description "personal description"
 url                      : https://liuhaodong9.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Haodong Liu"
   avatar           : "profile.png"
-  bio              : "He is currently a Phd student in Faculty of engineering from Monash University."
+  bio              : "PhD student in Monash (MON) and Southeast University (SEU)."
   location         : "Suzhou, China"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=d08wj5EAAAAJ&hl=en"
   email            : "liuhaodong.ncst@foxmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -96,22 +96,22 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "liuhaodong"
+  github           : "https://github.com/liuhaodong9"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
-  linkedin         :
-  orcid            : 
+  linkedin         : "https://www.linkedin.com/in/haodong-liu-147269301/""
+  orcid            : "orcid.org/0009-0005-1896-9455"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          : 
   vine             :
-  weibo            : "https://space.bilibili.com/25541376?spm_id_from=333.999.0.0"
+  weibo            : 
   xing             :
   youtube          :
   wikipedia        :
