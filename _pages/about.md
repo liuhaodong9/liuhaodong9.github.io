@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi, I am Haodong Liu. About me "
+title: "About me "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
