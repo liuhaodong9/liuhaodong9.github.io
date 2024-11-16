@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "HaodongLiu's Home"
 title_separator          : "-"
-name                     : &name "Haodong Liu"
-description              : &description "personal description"
+name                     : "Haodong Liu"
+description              : "personal description"
 url                      : https://liuhaodong9.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "liuhaodong9/liuhaodong9.github.io/"
@@ -80,41 +80,42 @@ analytics:
 
 # Site Author
 author:
-  name             : "Haodong Liu"
-  avatar           : "profile.png"
-  bio              : "PhD student in Monash (MON) and Southeast University (SEU)."
-  location         : "Suzhou, China"
-  employer         :
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=d08wj5EAAAAJ&hl=en"
-  email            : "liuhaodong.ncst@foxmail.com"
-  researchgate     :  
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "https://github.com/liuhaodong9"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      :
-  lastfm           :
-  linkedin         : "https://www.linkedin.com/in/haodong-liu-147269301/""
-  orcid            : "orcid.org/0009-0005-1896-9455"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    :
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            : 
-  xing             :
-  youtube          :
-  wikipedia        :
+  name: "Haodong Liu"
+  avatar: "profile.png"
+  bio: "PhD student in Monash (MON) and Southeast University (SEU)."
+  location: "Suzhou, China"
+  employer: null
+  pubmed: null
+  googlescholar: "https://scholar.google.com/citations?user=d08wj5EAAAAJ&hl=en"
+  email: "liuhaodong.ncst@foxmail.com"
+  researchgate: null
+  uri: null
+  bitbucket: null
+  codepen: null
+  dribbble: null
+  flickr: null
+  facebook: null
+  foursquare: null
+  github: "https://github.com/liuhaodong9"
+  google_plus: null
+  keybase: null
+  instagram: null
+  impactstory: null
+  lastfm: null
+  linkedin: "https://www.linkedin.com/in/haodong-liu-147269301/"
+  orcid: "orcid.org/0009-0005-1896-9455"
+  pinterest: null
+  soundcloud: null
+  stackoverflow: null
+  steam: null
+  tumblr: null
+  twitter: null
+  vine: null
+  weibo: null
+  xing: null
+  youtube: null
+  wikipedia: null
+
 
 
 # Reading Files
