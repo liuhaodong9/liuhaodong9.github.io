@@ -14,8 +14,8 @@ In July 2024, I completed my Master's degree in Material and Chemical Engineerin
 
 My current research interests focus on the molecular structure evolution of coal pyrolysis and coking, with applications involving digital twins, Three.js, deep learning, molecular dynamics (MD) simulations, and density functional theory (DFT) calculations.
 
-I am collaborating with Shirong Guo on designing the [smart-coking system software](http://longtechhydrogen.com/) for Prof. Jianglong Yu's team, which is under development for commercialization, with an expected release in June 2025.
+I am collaborating with Yuhang Qiu on designing the [smart-coking system software](http:///) for Prof. Jianglong Yu's group, which is under development for commercialization, with an expected release in June 2025.
 
-Additionally, I am passionate about developing practical algorithms to support scientific plotting and work. Some of my previous projects include drawing [chessboard plot](colab) and [rebursement App] (colab).
+Additionally, I am passionate about developing practical algorithms to support scientific plotting and work. Some of my previous projects include drawing [chessboard plot](colab) and [rebursement App](colab).
 
 I look forward to any interesting cooperation!
