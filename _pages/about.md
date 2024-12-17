@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student at the School of Energy and Environment, Southeast University, and I am jointly supervised by the Chemical Engineering Department at Monash University. My main supervisor is Prof. [Jianglong Yu](https://research.monash.edu/en/persons/jianglong-yu). Meanwhile, my associated supervisor is Prof. [Zhuguang Can](https://https://power.seu.edu.cn/zgc/list.htm) and Prof. [Sankar Bhattacharya](https://research.monash.edu/en/persons/sankar-bhattacharya).
+I am currently a PhD student at the School of Energy and Environment, Southeast University, and I am jointly supervised by the Chemical Engineering Department at Monash University. My main supervisor is Prof. [Jianglong Yu](https://research.monash.edu/en/persons/jianglong-yu). Meanwhile, my associated supervisor is Prof. [Zhuguang Can](https://power.seu.edu.cn/zgc/list.htm) and Prof. [Sankar Bhattacharya](https://research.monash.edu/en/persons/sankar-bhattacharya).
 
 In July 2024, I completed my Master's degree in Material and Chemical Engineering from North China University of Science and Technology. During my Master's, I conducted research on the construction of coal molecular structures under the supervision of Prof. [Guangyue Li](https://hg.ncst.edu.cn/col/1684291858330/2022/10/03/1664764516444.html) and Dr. Hang Zhang. I developed the [GenCoal tool](https://gencoal.readthedocs.io/en/latest/), an open-source Python software package designed to generate molecular structures of all coal ranks. The code and patent for this invention belongs to the [Guangyue Li Group](https://github.com/GYLiGroup).
 
