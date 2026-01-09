@@ -18,4 +18,6 @@ I have contributed to the design of fully automated coke ovens and the developme
 
 Additionally, I have developed a coal molecular model construction software for faculty and students, which is available on the intranet of the School of Chemical Engineering at North China University of Science and Technology.
 
+My research centers on AI-driven inverse molecular design and molecular-level modeling of organic amorphous macromolecules, with an emphasis on reactive evolution and structure–property relationships. I combine molecular dynamics and quantum chemistry calculations with deep learning and large language model (LLM) algorithms, and I build agentic AI workflows (RAG + knowledge graphs) to automate molecular generation, analysis, and digital-twin visualization.
+
 I am always open to exciting research collaborations and innovative projects. Please feel free to reach out for potential cooperation opportunities!
